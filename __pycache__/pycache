@@ -1,0 +1,17 @@
+🐍 What is __pycache__?
+
+__pycache__ is a special folder automatically created by Python when you run a program.
+It stores the compiled bytecode files of your .py scripts.
+These files usually have names like:
+       module_name.cpython-310.pyc
+
+⚡ Why does Python create __pycache__?
+1. Performance optimization 
+
+   When you run a .py file, Python first compiles it into bytecode.
+  This bytecode is stored in __pycache__ so the next time you run the program, Python can skip recompilation → faster execution.
+
+2.  Version-specific storage
+
+    If you switch between Python versions, different .pyc files can exist inside the same __pycache__, avoiding conflicts.
+
