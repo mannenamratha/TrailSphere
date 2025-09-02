@@ -1,0 +1,8 @@
+🖼️ What is an Image Description in a Dataset?
+
+An image description is text that explains what is shown in an image. It helps in:
+
+1. Understanding the dataset content
+2. Supporting image classification/detection tasks
+3. Making datasets accessible (alt-text)
+4. Assisting in model training (when paired with captions/labels)
