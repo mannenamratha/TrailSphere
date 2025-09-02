@@ -1,0 +1,12 @@
+📂 Templates (TrailSphere)
+
+The templates directory contains all the HTML files used to render the frontend pages of TrailSphere.
+
+
+1. about.html → Provides information about TrailSphere and its purpose.
+2. contact.html → Contains a form and details for user support or queries.
+3. home.html → Main landing page after login, with navigation to features.
+4. index.html → Entry page of the app (welcome/intro).
+5. login.html → User authentication page for login/sign-up.
+6. team.html → Introduces the project team members and contributors.
+7. upload.html → Allows users to upload clothing images or related files.
